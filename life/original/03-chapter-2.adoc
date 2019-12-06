@@ -1,10 +1,17 @@
 == Chapter II.
 
-Presentiment of an Imprisonment--Meeting broken up by the Priest--Is imprisoned
-for having a Meeting at his house--Letter to his Wife--His second imprisonment--Letter
-to his Wife--His Goods distrained to the value of £30--Extraordinary persecutions
-by the Priest--His Epistle to the Neighbours and one to the Priest--His
-third imprisonment--Letter to his Wife.
+[.chapter-synopsis]
+* Presentiment of an Imprisonment
+* Meeting broken up by the Priest
+* Is imprisoned for having a Meeting at his house
+* Letter to his Wife
+* His second imprisonment
+* Letter to his Wife
+* His Goods distrained to the value of £30
+* Extraordinary persecutions by the Priest
+* His Epistle to the Neighbours and one to the Priest
+* His third imprisonment
+* Letter to his Wife.
 
 On the 25th of this tenth month, 1665, as I lay in bed in the morning early,
 I heard as it were an audible voice which said unto me, take no care for thy business;
@@ -185,10 +192,17 @@ and I desire it may be a caution to all tender Friends who may have the knowledg
 to cast all their care upon the Lord, and lean solely upon him,
 whatever their exercise and suffering may be.
 
+[.small-break]
+'''
+
 +++[+++During his confinement he wrote the following letter,
 addressed "`For the hands of my dear and loving wife, Jane Sansom, dwelling at Boxford,
 these, with care.`"]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear and tender wife,
 
 In the living sense of the free and unlimited love of the Father of mercies and God
@@ -213,11 +227,16 @@ how it is with thee and how thou dost make a shift with thy business; but dear h
 let not thy mind be cumbered with it; so with dear love to thee and to Ruth,
 and to Friends at Oare, and at Woodlands, and to dear Richard Greenway,
 
+[.signed-section-closing]
 I rest thy dear husband,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Reading Jail, 2nd of Twelfth month, 1665.
+
+--
 
 When my three months`' imprisonment at Reading was
 at an end I was discharged and went home.
@@ -234,8 +253,13 @@ viz. seven to the house of correction at Abingdon, and four, whereof I was one,
 to the common jail at Reading for three months, upon the Act for Banishment;
 where I continued a prisoner very near fourteen weeks.
 
+[.offset]
 +++[+++He wrote the following letter to his wife during this imprisonment.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear wife,
 
 These are to let thee understand that through the goodness of the Lord
@@ -260,9 +284,13 @@ and assuredly he will not suffer us to be tempted or tried any further than he w
 give us strength to bear and endure as we stand faithful to what he makes known to us.
 With dear love to all faithful Friends at Oare or elsewhere, I remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Reading Jail, 14th of Fifth month, 1666.
+
+--
 
 And when I was set free from that imprisonment and came home again,
 it was not long before my old adversary gave me another toss,
@@ -382,6 +410,10 @@ there was a general release under the priest`'s hand and seal sent to me;
 which I returned back to him, enclosed in the letter he mentioned,
 which was of this tenor:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 James Anderton,
 
 I have lately received a general release under thy hand and seal.
@@ -407,10 +439,13 @@ and with the murderer,
 swearer and liar thou shalt be shut out except thou speedily repent.
 O repent, repent; if thou canst find a place.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 The 24th of the Eighth month, 1667.
 
+[.postscript]
 P+++.+++ S.--And now, James Anderton,
 consider with thyself what thou hast brought to pass by
 thy striving in cruelty against me these four years;
@@ -419,15 +454,18 @@ Alas! what am I, that thou shouldst thus strive against me?
 But it is the living God that is on my side and hath preserved me hitherto;
 living praises be to His name forever.
 
+[verse]
+____
 In the Truth of God, unto which all must bow,
-
 At first I was not so strong as I am now.
-
 Holy Praises be to my Rock and Strength forever;
-
 For from his Love no earthly thing can sever.
+____
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 After this I had little more to do with him for some time,
 till the Court Leet came which was in the second month, 1668,
@@ -460,6 +498,9 @@ and to make me a gazing-stock to the whole assembly.
 But when the priest was gone to dinner it came in my mind to write a few words,
 for the better information and satisfaction of the people; which I did in these words:--
 
+[.embedded-content-document.letter]
+--
+
 Whereas I, Oliver Sansom,
 have this day been charged by James Anderton with printing lies in a book against him,
 and also with holding erroneous opinions,
@@ -472,9 +513,13 @@ let the wise in heart judge.
 
 This is written, that things may be fairly tried, and false reports stopped, by
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 6th of the Second month, 1668.
+
+--
 
 This little paper I fastened to a post in the middle
 of the great hall where the Court was kept,
@@ -499,6 +544,10 @@ and being desirous to be rid of that money which was left in his hands
 on that occasion and to clear himself from being further concerned therein,
 he sent the money to the priest, and with it the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Anderton,
 
 Whereas there did arise a difference between you and my son-in-law Oliver Sansom,
@@ -533,14 +582,22 @@ that I do intend never to be concerned in such a business again.
 In witness whereof I do herewith return the overplus money back again to you,
 desiring I may be as clear before the Lord as I am in doing wrong to you in this matter.
 
+[.signed-section-signature]
 Thomas Bunce.
 
+[.signed-section-context-close]
 Charney, October 30th, 1668.
+
+--
 
 There was also another letter written to the priest upon the same occasion,
 by Richard Vokins; who had been an agent or instrument in the before-mentioned agreement;
 and thus it was:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Anderton,
 
 These are to let you know that I intend never to be instrumental any way
@@ -573,9 +630,13 @@ And seeing you have dealt so by us,
 I have just ground if it be but for that cause to deny any further dealing with you;
 for plainly I have not often found the like deceit among the worst of men.
 
+[.signed-section-signature]
 Richard Vokins.
 
+[.signed-section-context-close]
 West Charlow, October 31st, 1668.
+
+--
 
 These letters were first delivered to my own father,
 in hopes that he also would clear himself from being concerned any more
@@ -606,6 +667,10 @@ that they might not anger the priest and render him less tractable
 in his intended treaty with him;) and together with them,
 he sent the priest a few lines from himself also, in these words:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Anderton,
 
 Whereas I have received a paper containing a certain value of tithe of Oliver Sansom`'s,
@@ -617,9 +682,13 @@ and also one from Richard Vokins;
 intending never any more to have anything to do therein.
 So with my love to you, I rest,
 
+[.signed-section-signature]
 John Sansom.
 
+[.signed-section-context-close]
 January 1st, 1668.
+
+--
 
 My relations having thus (through my importunity) discharged
 themselves of this matter it was greatly to my satisfaction.
@@ -645,6 +714,10 @@ of the precious Truth from his slanderous suggestions;
 whereby he sought to render both it and them that professed it odious to his auditory.
 And that which I wrote was as followeth.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Friends and Neighbours,
 
 Forasmuch as James Anderton hath opened his mouth wide against
@@ -802,10 +875,13 @@ who are all led by his Spirit.
 
 I am a real friend to all tender-hearted people but a living witness against deceit,
 
+[.signed-section-signature]
 O+++.+++ Sansom
 
+[.signed-section-context-close]
 The 28th of the First month, 1669.
 
+[.postscript]
 P+++.+++ S. If James Anderton or any other hath anything to charge us with,
 who are in scorn called Quakers,
 let it be produced in writing openly to the view of all sober people;
@@ -813,7 +889,10 @@ and they may expect a sober answer in plainness.
 And so let them and us be tried by the Scriptures of Truth;
 and whoever is found guilty of error, let him be censured accordingly.
 
+[.offset]
 "`Prove all things; hold fast that which is good.`"
+
+--
 
 I appointed my man to read this foregoing letter in the audience of the people,
 when they came forth from their worship,
@@ -860,6 +939,10 @@ But I having a sense of his dissimulation and deceit,
 felt a concern upon my spirit to write some lines as a warning to him;
 which were as followeth.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 James Anderton,
 
 I have considered of thy warning or rather threatening of me yesterday.
@@ -902,9 +985,13 @@ Written by one, unto whom, through the mercy of the Lord,
 it is given on the behalf of Christ,
 not only to believe but willingly to suffer for his sake.
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 The 14th of the Eleventh month, 1669.
+
+--
 
 This letter I sent to his house by my man;
 and the priest being then in his chamber was called down,
@@ -964,9 +1051,14 @@ In all which time I never saw my own habitation, nor indeed as much as desired i
 but rested satisfied in the will of my heavenly Father;
 being willing to drink that cup which he had appointed for me.
 
+[.offset]
 +++[+++The following letters are here inserted according to their dates,
 having been written from Reading jail during this imprisonment.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 These are to let thee understand that I am well; praised be the Lord over all forever.
@@ -1047,12 +1139,18 @@ enclosed letter be safely delivered as it is directed,
 and let him keep the paper that I gave him a week longer before he make it public.
 So with dear love to every honest heart, farewell,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Reading Jail, 4th of Third month, 1670.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 In the pure living Truth, which changeth not, doth nay love truly reach forth unto thee,
@@ -1078,12 +1176,18 @@ even in that cross which is the power and wisdom of God,
 wait to be preserved and kept unto the end; which is the desire of my life for you all,
 as for my own self, and remain, thy dear husband.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Reading Jail, 26th of Fifth month, 1670.`"
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 My dear and tender love doth truly reach forth unto thee,
@@ -1142,8 +1246,10 @@ So desiring that we may remember one another in our
 breathings and requests unto the Lord,
 in tender love I bid you ail farewell.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.salutation]
 And this to Friends:
 
 Let every one of you be diligent to follow your own business in the fear of God,
@@ -1171,10 +1277,15 @@ to Him be the praise and honour ascribed, for His is the kingdom,
 the power and the glory forevermore.
 Amen.
 
+[.signed-section-context-close]
 Reading Jail, 7th of Ninth, 1670.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 My dear, tender,
@@ -1212,14 +1323,21 @@ and feel a being gathered into it, so as to be led and guided by it.
 So in that which is meek and lowly, my love is to and with you all,
 and also unto every upright heart and faithful friend, as if I named them particularly.
 
+[.signed-section-closing]
 I rest thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Reading Jail, 12th of Second month, 1671.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear wife.
 
 In true, tender, and entire love to thee,
@@ -1229,7 +1347,7 @@ in that testimony for the Truth concerning tithes, for which at this day, I suff
 
 I desire thee to observe when any corn is marked
 or set out for the priest thou be sure to go,
-before they do fetch it away, and set it, * * * * * +++[+++not clear]
+before they do fetch it away, and set it, * * * * * +++[+++word not clear]
 and unmark it, and this will stand as a faithful testimony for the Truth,
 although they steal it away afterwards, and see that thou do unmark it,
 and in the authority of Truth tread the pope`'s marks under foot openly.
@@ -1255,9 +1373,13 @@ who alone is worthy by us all to be praised and glorified above all,
 who is God over all in heaven and earth, blessed forevermore.
 Amen.
 
+[.signed-section-closing]
 Remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
-Reading Jail.
-12th of Seventh month, 1671.
+[.signed-section-context-close]
+Reading Jail. 12th of Seventh month, 1671.
+
+--

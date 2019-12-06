@@ -1,10 +1,19 @@
 == Chapter VIII.
 
-With other Friends to the Quarter Sessions at Newbury--Are recommitted--Quarter Sessions
-at Abingdon--Again to prison--Sessions at Newbury--Back to prison--Letter to Fettiplace--Are
-liberated by a moderate Justice--Persecution at Farringdon--Petty Sessions there--For
-meeting O. S. is committed to Reading Jail until delivered '`by due course of law`'--Goes
-to prison carrying his own court order--Letter to his wife.
+[.chapter-synopsis]
+* With other Friends to the Quarter Sessions at Newbury
+* Are recommitted
+* Quarter Sessions at Abingdon
+* Again to prison
+* Sessions at Newbury
+* Back to prison
+* Letter to Fettiplace
+* Are liberated by a moderate Justice
+* Persecution at Farringdon
+* Petty Sessions there
+* For meeting O. S. is committed to Reading Jail until delivered '`by due course of law`'
+* Goes to prison carrying his own court order
+* Letter to his wife.
 
 It was not long after this, that the quarter sessions came on again,
 and were held at Newbury on the 28th and 29th of the second month, 1685,
@@ -468,6 +477,10 @@ Wherefore that I might clear my conscience in the
 sight of God and leave him wholly inexcusable,
 I wrote thus to him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Thomas Fettiplace.
 
 In the fear of God and in true love to your immortal soul,
@@ -546,10 +559,13 @@ and so escape that approaching misery and destruction which you are hastening to
 This is sent for a warning to you from your closely confined prisoner,
 only for keeping Christ`'s commands.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Reading Jail the 9th of Eighth month, 1685.
 
+[.postscript]
 P+++.+++ S. One thing more I may remind you of, which is this.
 The poor man of Bourton and his wife,
 when you did dance after Hardwick the informer`'s pipe, had their goods taken away,
@@ -565,7 +581,10 @@ Be ashamed and blush for these doings,
 which with many more that might be mentioned will stand upon record
 unto future generations to the infamy of the actors of them.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 When the next quarter sessions came,
 which were held at Reading on the 12th of the eleventh month, 1685, we expected a trial,
@@ -772,6 +791,10 @@ The Lord forgive you all.`"
 So the constable had me away to the tithingman,
 and in a little time the following court order was sent after me.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Berks.--To the tithing-man of the port of the parish of Farringdon:
 and to the keeper of his Majesty`'s jail in Reading.
 
@@ -789,15 +812,18 @@ And these are likewise to command the keeper of the
 said jail to receive him into his custody,
 and him safely to keep until he shall be delivered by due course of law.
 Hereof fail not at your perils.
-Given under our hands and seals at Farringdon aforesaid, the 2nd day of March, Anno Dom.
-1686.
+Given under our hands and seals at Farringdon aforesaid, the 2nd day of March, Anno Dom. 1686.
 
+[.signed-section-signature]
 Henry Purefoy.
 
+[.signed-section-signature]
 Humphry Hyde.
 
-Tho.
-Fettiplace.
+[.signed-section-signature]
+Tho. Fettiplace.
+
+--
 
 When the tithing-man had received this court order, being at that time full of business,
 he desired me to take it myself, and go to prison by myself,
@@ -805,8 +831,13 @@ and excuse him from going with me.
 So I willing to ease the officer went twenty-five miles by myself to prison,
 and carried the court order along with me in my pocket.
 
+[.offset]
 +++[+++From the prison he wrote the following letter to his wife.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 My true and entire love salutes you in the life which is divine,
@@ -839,10 +870,16 @@ So with true and unfeigned love to all Friends, your brother D. at Charney and h
 my sister E. W. and to them at Gooses, Charlow, and Farringdon and elsewhere,
 as if named.
 
+[.signed-section-closing]
 In haste I rest your dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Reading Jail, 10th of First month, 1685.
 
+[.postscript]
 Samuel Burgis is ill, he sent for me and I am just going to see him at the mill.
+
+--

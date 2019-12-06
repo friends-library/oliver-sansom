@@ -1,9 +1,17 @@
 == Chapter V.
 
-With Samuel Burgis starts for the yearly meeting--Are arrested at Windsor--Their
-examination there--To the yearly meeting in 1676--Proceeds to Liverpool,
-taking meetings on the way--Delays--Sail for Dublin--Travels in Ireland on a religious
-account--Three letters to his wife--Returns home--Epistle to Friends in Ireland.
+[.chapter-synopsis]
+* With Samuel Burgis starts for the yearly meeting
+* Are arrested at Windsor
+* Their examination there
+* To the yearly meeting in 1676
+* Proceeds to Liverpool, taking meetings on the way
+* Delays
+* Sail for Dublin
+* Travels in Ireland on a religious account
+* Three letters to his wife
+* Returns home
+* Epistle to Friends in Ireland.
 
 Some time after this, the yearly meeting at London coming on,
 to which my dear friend and brother in the truth, Samuel Burgis and I intending to go,
@@ -205,7 +213,7 @@ and very precious through the goodness of the Lord,
 who is worthy to have the glory over all forevermore.
 
 Afterwards in the evening many Friends being together with us,
-we had then also a good time toa;ether to our comfort through the favour of the Lord.
+we had then also a good time together to our comfort through the favour of the Lord.
 Then we went to visit two Friends that were in prison;
 and there also waiting together awhile in the prison we
 felt and tasted something of that spring of divine life,
@@ -517,11 +525,17 @@ authority over the meetings to the comfort of the faithful.
 On the second-day we were at the women`'s meeting
 in that city and the Lord was with us there also.
 
+[.offset]
 +++[+++The following letter written to his wife may be appropriately introduced here.
 Two letters at subsequent dates, written also from Dublin, are inserted in their places.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, 11th of Seventh month, 1676
 
+[.salutation]
 My dear Wife,
 
 In that love which sea or land cannot separate doth
@@ -612,9 +626,13 @@ and thereby united and joined us together with all the faithful, in one body,
 as with joints and bands; oh! let us in that same love dearly feel one for another,
 and breathe one for another, and therein I rest and remain,
 
+[.signed-section-closing]
 Thy dear husband,
 
-O, S.
+[.signed-section-signature]
+O+++.+++ S.
+
+--
 
 Next day we went to Kilbalin and had a I meeting there,
 in which the Lord answered the desire of the upright, for the diligent received a;
@@ -1018,8 +1036,13 @@ On the seventh-day we went to the six weeks`' meeting for the province of Leinst
 which was held at Castle-Dermot and lasted two days;
 and a very good and large meeting it was.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, 7th of Ninth month, 1676.
 
+[.salutation]
 My dear Wife,
 
 My dear and tender love doth reach unto thee and doth dearly salute thee,
@@ -1076,7 +1099,10 @@ I shall cease to write further.
 But in that which was before words and writing were, feel and read me,
 in which I rest and remain thy dear husband.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 On the second-day we went to the half-year`'s general meeting at Dublin,
 which began on the fourth-day of the week, being the 8th day of the ninth month,
@@ -1202,8 +1228,13 @@ and on the third-day the men Friends at theirs;
 that we might take a solemn farewell of them, before we left Ireland;
 which we purposed to do the next day.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, 25th of Ninth month, 1676.
 
+[.salutation]
 My dear Wife,
 
 Thine I received with thy dear sister`'s dated the 1st of this month,
@@ -1243,7 +1274,10 @@ And so in that unchangeable love which was before ink and paper were,
 doth my soul salute thee, with thy dear sister and all the upright in heart,
 and rest thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 But in the morning when we were almost ready to depart,
 many of the Friends came to our lodging,
@@ -1325,8 +1359,13 @@ my heart was overcome and greatly tendered towards them; so that I could not con
 but was thereby moved and even constrained to visit them with an epistle in writing,
 the copy whereof here follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends of Truth in the County of Wexford, and elsewhere, in Ireland.
 
+[.salutation]
 Dear Friends,
 
 Brethren and sisters, born of the immortal seed,
@@ -1383,7 +1422,7 @@ And these also are the very elect which cannot be deceived.
 
 Therefore, my dear Friends,
 let every one of you be diligent to witness your
-calling and elec tion to be made sure unto you;
+calling and election to be made sure unto you;
 that none of you may be deceived or beguiled by the subtlety of the wicked one,
 and that no evil bitter root may spring up among you to trouble or disquiet any of you,
 tending to divide or make you at a distance one from another.
@@ -1497,14 +1536,20 @@ For all who will follow the Lord and bring honour to His name, must deny themsel
 And so in the holy, self-denying life of Jesus, the meek Lamb of God,
 do I at this time bid you all farewell, and therein rest.
 
+[.signed-section-closing]
 Your dear brother,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Farringdon, the 20th of Fifth month, 1677.
 
+[.postscript]
 Let this be carefully copied over and communicated among Friends in Ireland,
 as in the wisdom of God a service is seen.
+
+--
 
 I sent this epistle directed to Leonard Kerly, in the county of Wexford;
 from whom afterwards I received an account that it
