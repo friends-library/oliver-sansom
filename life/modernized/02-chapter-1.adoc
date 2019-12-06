@@ -1,10 +1,19 @@
 == The Life of Oliver Sansom. Chapter I.
 
-His birth and parentage--Early religious impressions--Convincement and profession of
-(he Truth--Marriage--Settles at Boxford--Reasons for not attending Church (so called)--Exercise
-about the oath--Conference between a Friend and the Priest--Testimony against tithes--Is
-made constable--The primary rule of faith and life--Continued persecutions of the priest--Goods
-three times distrained for neglecting to hear divine service (so called).
+[.chapter-synopsis]
+* His birth and parentage
+* Early religious impressions
+* Convincement and profession of the Truth
+* Marriage
+* Settles at Boxford
+* Reasons for not attending Church (so called)
+* Exercise about the oath
+* Conference between a Friend and the Priest
+* Testimony against tithes
+* Is made constable
+* The primary rule of faith and life
+* Continued persecutions of the priest
+* Goods three times distrained for neglecting to hear divine service (so called).
 
 Before I come to speak particularly of the dealings of the Lord with me,
 and the various exercises he led me through,
@@ -287,6 +296,10 @@ and likely to be of more advantage to the truth and more conducive to the good o
 to get some Friend to come, and dispute with him openly;
 in order whereunto I sent him a few lines, a copy whereof follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 James Anderton,
 
 Seeing your words and carriage have appeared mild and temperate towards me,
@@ -310,11 +323,16 @@ especially those that have taken offence;
 so that the kingdom of the Lamb may be enlarged and the God of Truth glorified;
 which is the prayer, scope and desire of me, who am
 
+[.signed-section-closing]
 A friend to all that love the Lord Jesus Christ in sincerity, called,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 21st of the Twelfth month, 1663.
+
+--
 
 When the priest had received and read this letter,
 he sent me word by the messenger that carried it to him,
@@ -528,6 +546,10 @@ or else they should not be discharged all that night.
 This unkind and unfair dealing of my landlord with
 me brought a concern upon me to write to him as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Landlord,
 
 It has been in my heart to lay before you some considerations concerning
@@ -558,9 +580,13 @@ before the decree be gone forth, that "`he that is filthy, let him be filthy sti
 and he that is righteous, let him be righteous still.`"
 This in love to you is written, by him that wishes good to all and evil to none,
 
+[.signed-section-signature]
 Oliver Sansom,
 
+[.signed-section-context-close]
 The 30th day of the eighth month, 1664.
+
+--
 
 This letter was delivered to my landlord on the 1st of the ninth month,
 and when he had perused it, he sent word by one of his servants,
@@ -611,8 +637,13 @@ even where the Scriptures have not yet come, have,
 a sufficient rule to guide them in their respective duties, both to God and man:
 and that that Rule was the divine Light shining in their own hearts and consciences.
 
+[.offset]
 I enclosed them in a few lines to him thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Francis Green,
 
 Seeing you have pretended so much good will towards me and
@@ -638,9 +669,13 @@ unto every man that asks them a reason of the hope that is in them,
 and that with meekness and fear; I think I have ground,
 especially considering what you pretend, to expect from you an answer to these queries.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 10th of the tenth month, 1664.
+
+--
 
 This was delivered to the said Francis Green by one that was present
 when he made so much ado at me to come to his lodging.
@@ -744,6 +779,10 @@ in such strict terms as if I had committed some heinous crime;
 whereas the only matter they had to charge me with was my not going to hear the priest.
 Which warrant, because it was in an unusual form, I here give a copy of:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Berks.--To the Constable and Tithingman of Boxford, or to either of them.
 
 Whereas information and complaint has been made and given in unto me upon oath,
@@ -767,7 +806,10 @@ and to be further dealt with as to law and justice does appertain.
 Hereof fail not at your peril.
 Dated at Denford in the said county, the 25th of July, 1665.
 
+[.signed-section-signature]
 William James.
+
+--
 
 When the constable had received this warrant,
 he told me the day of appearance was on Tuesday following; but therein he did mistake,
@@ -799,6 +841,10 @@ Wherefore I went to the tithingman who had the warrant,
 and fold him I did not intend to appear personally, but would send my answer in writing,
 and desired him to carry it; which he did, and this is a copy of it.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 William James,
 
 Whereas I have been accused or complained of to you
@@ -826,7 +872,10 @@ I suppose I am not liable to a trial at two courts, for the same thing.
 But if any matter of fact can be charged against me commanding my accusers to be present,
 I will appear to answer at any time, if the Lord permit.
 
+[.signed-section-signature]
 Oliver Sansom.
+
+--
 
 When the Justice had received this letter,
 he without more ado issued out another warrant for distraining my goods,

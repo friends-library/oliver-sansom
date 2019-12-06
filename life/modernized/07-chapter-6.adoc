@@ -1,14 +1,22 @@
 == Chapter VI.
 
-His concern as regards the schism of Wilkinson and Story--Is summoned to a Court-Leet--Is
-elected Constable of the Hundred--His letter to the Lord of the Manor--Goods distrained
-for not taking the Oaths--Another letter to the Lord of the Manor--Account of and letter
-from Joan Vokins--Twice fined for attending Abingdon Meeting--Is informed against and
-fined £20 for preaching in his own Meeting--Goods distrained but returned after four
-years--Clears himself of an untrue report--Converses with two informers,
-who inform against m him for attending Meeting--Appears at the Quarter Sessions
-at Reading--Oath tendered to ensnare him--Refuses to take it and is imprisoned--Injustice
-towards Friends who appealed against the Informers.
+[.chapter-synopsis]
+* His concern as regards the schism of Wilkinson and Story
+* Is summoned to a Court-Leet
+* Is elected Constable of the Hundred
+* His letter to the Lord of the Manor
+* Goods distrained for not taking the Oaths
+* Another letter to the Lord of the Manor
+* Account of and letter from Joan Vokins
+* Twice fined for attending Abingdon Meeting
+* Is informed against and fined £20 for preaching in his own Meeting
+* Goods distrained but returned after four years
+* Clears himself of an untrue report
+* Converses with two informers, who inform against m him for attending Meeting
+* Appears at the Quarter Sessions at Reading
+* Oath tendered to ensnare him
+* Refuses to take it and is imprisoned
+* Injustice towards Friends who appealed against the Informers.
 
 I have hinted something concerning the spirit of opposition, division and separation,
 which had for some time wrought mysteriously and covertly in some,
@@ -160,6 +168,10 @@ and sent them to the steward in the time of the court
 to signify the cause of my not appearing there;
 the copy follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Thomas Blagrave,
 
 Whereas I was summoned to appear at the Court-Leet held this day in this town;
@@ -172,14 +184,21 @@ so that I cannot come to attend there without manifest danger.
 Therefore I do herewith send a penny in acknowledgement of my fealty,
 desiring that for this time my absence may be excused.
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Farringdon, the 17th of Eighth month, 1678.
+
+--
 
 While I was writing those few lines,
 it was laid weightily upon me to insert something as a testimony
 and warning to my neighbours against oaths and swearing;
 which I did by the following postscript.
+
+[.embedded-content-document.letter]
+--
 
 And you my neighbours now assembled at the court,
 it is in my heart to lay one weighty matter before you in the fear of God,
@@ -201,11 +220,16 @@ I beseech you lay it to heart; and fear the Lord, in whose hand your life and br
 that you may be preserved from this presumptuous sin;
 lest you be found of that number who in words profess Christ, but in works deny him.
 
+[.signed-section-closing]
 This, in the love of God, is written, and sent as a warning to you all, by,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.postscript]
 I desire it may be read openly in the Court.
+
+--
 
 When the steward had received this letter, he did not read it openly in the Court; but,
 as I was informed, muttered some threatening words; as,
@@ -230,6 +254,10 @@ who was also a justice of the peace;
 which I did and got it delivered to him the day before the court was held.
 And thus it was:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Justice Pye,
 
 In the fear of God and with due regard to you as
@@ -309,10 +337,13 @@ that of the Lord you may find mercy;
 I am a companion to them who desire to manifest their
 love to the Lord Jesus Christ by keeping his commands.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 1st of the Ninth month, 1680.
 
+[.postscript]
 P+++.+++ S. If you please to admit me to serve in the said office upon the terms aforesaid,
 I doubt not but by practice to make it appear,
 that a man may be no less loyal to the king nor less useful and serviceable to his country,
@@ -321,7 +352,10 @@ For to all those who know Christ the Truth, in their inward parts,
 and are led by him into all truth, both in words and actions,
 the occasion of oaths is taken away.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 The next day after the foregoing letter was delivered,
 the Court was kept again as it had been by adjournment before appointed,
@@ -355,7 +389,7 @@ and instantly sent officers, namely, John Carter, tithing-man, and William Tombe
 bailiff, to my house, without any warrant, save only his verbal command,
 to distrain my goods for the said fine; which they did,
 and took away seven ends of whitened cotton-fustian,
-well worth eighteen shillings an end; which came to six poimds six shillings,
+well worth eighteen shillings an end; which came to six pounds six shillings,
 and one piece of dowlass, with other linen cloth,
 which cost me three pounds seventeen shillings and ninepence,--in all,
 ten pounds three shillings and ninepence.
@@ -381,6 +415,10 @@ believing that although it was rejected by him, yet if ever it come to public vi
 it may be of service to some hereafter.
 It was thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Robert Pye,
 
 I wrote a letter a few days since,
@@ -474,11 +512,16 @@ or else they will fall into condemnation; and whatsoever is more comes of evil.
 So to the Lord I leave you,
 and desiring him to give you an understanding by his divine inspiration; I remain
 
+[.signed-section-closing]
 A friend to your soul and a witness for the Truth.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 4th of Ninth month, 1680.
+
+--
 
 It may be marvelled by some why this man appeared so implacable against me in this matter;
 seeing he was well known in the country, of late years especially,
@@ -524,6 +567,7 @@ for my not taking the constable`'s oath.
 However it was, he from that time carried himself ever after, though friendly to others,
 yet unkind to me, and as an enemy; as I shall have occasion further to observe hereafter.
 
+[.offset]
 +++[+++About this time O. Sansom received the following letter from his dear sister,
 Joan Vokins.^
 footnote:[Of this Friend but little is known now,
@@ -576,6 +620,10 @@ entitled "`God`'s mighty power magnified.`"]
 As her name occasionally occurs in these pages,
 it may not be out of place here to insert it.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To Oliver Sansom and his Wife.
 
 Dear Brother and Sister, Whom I dearly love in the Lord Jesus, our life,
@@ -612,11 +660,16 @@ and if they grow in the truth and knowledge and love of God,
 then will the desire of your tender sister be answered.
 And so in that which satisfies our breathings, I remain
 
+[.signed-section-closing]
 Your tender sister,
 
+[.signed-section-signature]
 J+++.+++ V.
 
+[.signed-section-context-close]
 The 1st of Eighth month, 1680.
+
+--
 
 To relate my exercises in order of time as they fell, I must acquaint the reader,
 that in the second and third months 1682,
@@ -841,9 +894,13 @@ William Hitchcock of Marlborough, who had been most intimate with him all along,
 for about twenty years, desiring them to certify what they knew concerning this matter.
 They did both certify severally; and the copy of their respective certificates follow:
 
+[.offset]
 That of the Scrivener was thus:
 
-"`This may certify all people whom it may concern,
+[.embedded-content-document.legal]
+--
+
+This may certify all people whom it may concern,
 that I have been concerned in transcribing all the
 wills and deeds that Bartholomew Malam made,
 for the settlement of his estate, ever since the year 1670,
@@ -866,11 +923,19 @@ appears both false and malicious,
 In testimony whereof I have hereunto subscribed my name,
 who have been both an eye and ear-witness to these transactions.
 
+[.signed-section-signature]
 John Richardson.
 
+[.signed-section-context-close]
 Marlborough, the 1st of December, 1683.
 
+--
+
+[.offset]
 The certificate from William Hitchcock was thus worded.
+
+[.embedded-content-document.legal]
+--
 
 This I can also certify, that I have had knowledge of Bartholomew Malam`'s mind,
 in the settlement of his estate, from time to time, for near twenty years,
@@ -899,9 +964,13 @@ So for truth sake, and the clearing of Oliver Sansom,
 I could do no less than thus to certify;
 in testimony whereof I have hereunto subscribed my name.
 
+[.signed-section-signature]
 William Hitchcock.
 
+[.signed-section-context-close]
 Marlborough, the 1st of Tenth month, 1683.
+
+--
 
 When Robert Pye had received the before-written certificates,
 the answer he gave me was this: they, meaning John Richardson and William Hitchcock,
@@ -1155,7 +1224,11 @@ and let him come to me in the evening, and he shall have a court order.
 Accordingly the jailer, having secured me, went for a court order,
 and had it in these words:
 
-Berks.--To the Keeper of His Majesty`'s Jail for the County of Berks.
+[.embedded-content-document.legal]
+--
+
+[.salutation]
+To the Keeper of His Majesty`'s Jail for the County of Berks.
 
 These are in his majesty`'s name,
 to require you to take into your custody the body of Oliver Sansom of Farringdon,
@@ -1166,9 +1239,13 @@ Hereof you are not to fail.
 Given under our hands and seals this 15th day of January,
 in the 35th year of his majesty`'s reign, Anno Domini, 1683.
 
+[.signed-section-signature]
 Anthony Craven.
 
+[.signed-section-signature]
 John Wightwick.
+
+--
 
 Now being fixed in prison that I might not prosecute the appeals before-mentioned,
 which were to be tried that session;

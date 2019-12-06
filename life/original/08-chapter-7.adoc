@@ -1,11 +1,17 @@
 == Chapter VII.
 
-His letter with the two books to Justice Parrel--Three letters to his
-wife from the prison--All the goods taken from his house and shop whilst
-in prison--To the Sessions at Newbury and recommitted for not swearing--Two
-letters to his wife--His epistle to Friends under suffering--Sessions
-at Wantage--With other Friend is recommitted for not swearing--The Sessions
-at Reading--Is still continued in jail--His letters to Justice Fettiplace.
+[.chapter-synopsis]
+* His letter with the two books to Justice Parrel
+* Three letters to his wife from the prison
+* All the goods taken from his house and shop while in prison
+* To the Sessions at Newbury and recommitted for not swearing
+* Two letters to his wife
+* His epistle to Friends under suffering
+* Sessions at Wantage
+* With other Friend is recommitted for not swearing
+* The Sessions at Reading
+* Is still continued in jail
+* His letters to Justice Fettiplace.
 
 Mention being made before, that Charles Parret, called a justice,
 had manifested much envy, in seeking to have the oath tendered to me,
@@ -22,6 +28,10 @@ A "`Dissuasive from Persecution;`" the other,
 "`Christian Religious Meetings Vindicated.`"
 These books I enclosed in a sheet of paper, and wrote therein as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Justice Pareet,
 
 Having an understanding of some late rigorous proceedings
@@ -39,20 +49,31 @@ desiring the Lord to incline thy heart to justice, mercy and truth;
 that thou mayst be happy eternally.
 I am,
 
+[.signed-section-closing]
 A friend to all that love righteousness,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Farringdon, the 1st of Sixth month, called August, 1683.
+
+--
 
 This letter I sent by the post: but could not understand that he had received it,
 until he, about five months after, spake of it himself in the open sessions;
 and then charged it as a crime upon me.
 
+[.offset]
 +++[+++Whilst imprisoned at this period, he wrote the letters which are subjoined, to his wife.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Reading Jail, 26th of Twelfth month, 1683.
 
+[.salutation]
 My dear Wife,
 
 The dear and tender salutation of my endeared love truly reaches unto thee,
@@ -96,15 +117,22 @@ with all her family, and also to them at Gooses, and to my brother D. B. and sis
 at Charney, and to Sarah, and E. B., and E. W.,
 and once more to thyself is my entire love, and rest thy dear husband.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.postscript]
 When E. Wightwick is out of her Bible,
 let her read the first book of Chronicles and Nehemiah over again.
 
+[.signed-section-context-close]
 Reading Jail, 4th of First month, 1684.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 My true and entire love salutes thee, sincerely wishing thy welfare,
@@ -131,14 +159,21 @@ So with my dear love once more to thee, and J to E. L., G. A., and M. R.,
 and all the rest of Friends as if named,
 to S. A. and the children whom I desire may take heed and do well.
 
+[.signed-section-closing]
 I remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 11th of First month, 1684.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife.
 
 My true and entire love salutes thee, desiring thy prosperity in the precious truth,
@@ -177,9 +212,13 @@ who is blessed and worthy over all forevermore.
 Amen.
 In haste,
 
+[.signed-section-closing]
 I rest thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 But to proceed, while I was now in prison, these two wicked imformers,
 Thomas Welman and Angel Smith, having before sworn against me,
@@ -385,14 +424,20 @@ Then with one voice they commanded the jailer to take me away; which he did.
 And about six weeks after, the clerk of the peace sent an order to the jailer,
 to keep me and three other Friends prisoners until the next sessions.
 
+[.offset]
 +++[+++In the interval he wrote to his wife as follows.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Reading Jail, 14th of Second month, 1684.
 
+[.salutation]
 Dear Wife,
 
 After the tender salutation of my endeared love,
-heartily desiring and praying for thy welfiire every way,
+heartily desiring and praying for thy welfare every way,
 but most especially in the precious unchangeable Truth, which lives and abides forever;
 these are to acquaint thee that things are so fallen out,
 I cannot come forth this week to go to Purton as I intended,
@@ -419,14 +464,21 @@ then had before the mayor and fined five shillings a man, and so dismissed.
 So having not much more to write at present,
 but with that love which distance of place cannot separate, nor time wear out,
 
+[.signed-section-closing]
 I remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Reading Jail, 13th of Fourth month, 1684.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 My true and entire love doth sincerely reach forth unto thee in
@@ -458,9 +510,14 @@ that they may be blessed and happy both here and hereafter.
 So hoping to see thee at Bothamstead, I shall cease to write further at present,
 but conclude with my very dear love to thy sister, and to all Friends at Charlow,
 and at Charney, and elsewhere, and once more to thyself.
+
+[.signed-section-closing]
 I remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 About this time our Friends at Farringdon, and the parts thereabout,
 were under great sufferings, by means of the wicked informers and persecuting justices;
@@ -475,6 +532,10 @@ What I wrote was directed to the Friends of the monthly
 meeting of the Vale of White Horse;
 and was as followeth.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 Unto whom is given in mercy from the Lord,
@@ -573,9 +634,16 @@ as any Friend finds freedom and a service is seen.^
 footnote:[This epistle was written on one large sheet,
 and the original in O. S`'s writing is carefully preserved.]
 
-Your dear brother in bonds, Oliver Sansom.
+[.signed-section-closing]
+Your dear brother in bonds,
 
-Reading Goal, the 19tti of the Fourth month, 1684.
+[.signed-section-signature]
+Oliver Sansom.
+
+[.signed-section-context-close]
+Reading Goal, the 19th of the Fourth month, 1684.
+
+--
 
 I mentioned before, that I and three other Friends with me,
 were by an order of the last sessions continued prisoners till the next.
@@ -690,7 +758,7 @@ any more than the primitive Christians,
 and the early protestants and martyrs keeping up the irreligious meetings,
 contrary to law, was a breach of their allegiance to their respective princes; I say,
 before I could answer, the chairman interposing said, "`Come, pray let us know,
-whether you will take the oafh of allegiance or not; for we have a great deal to do.`"
+whether you will take the oath of allegiance or not; for we have a great deal to do.`"
 
 I answered, "`I do not deny or refuse allegiance,
 but shall perform it as faithfully as any of you all.`"
@@ -822,6 +890,10 @@ Whereupon they appeared very fierce and angry,
 and caused a mittimus to be presently made for sending us to jail again;
 of which the copy here follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Berks.
 
 We send you herewith the bodies of Samuel Burgis, John Sansom, Oliver Sansom,
@@ -830,20 +902,21 @@ being the first time tendered to them, upon this 14th day of January instant;
 there to remain, without bail or mainprize, until the next session of the peace,
 to be holden for this county.
 Dated under our hands and seals, the 14th day of January, Anno.
-Dom.
+Dom. 1684 R. R. Car. Secund. xxxvi.
 
-1684+++.+++ R. R. Car.
-Secund.
-xxxvi.
-
+[.signed-section-signature]
 Anthony Craven.
 
-Tho.
-Fettiplace.
+[.signed-section-signature]
+Tho. Fettiplace.
 
+[.signed-section-signature]
 John Smith.
 
+[.signed-section-context-close]
 To the keeper of his Majesty`'s jail in Reading, for the said county.
+
+--
 
 Between this time of our new commitment and the next sessions,
 I had occasion to expostulate our case with one of
@@ -867,6 +940,10 @@ hoping he might come to be of a better mind by the next sessions; but he,
 on the contrary, appeared much worse than ever before; which I observing,
 a concern came upon me to write to him as followeth:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Thomas Fettiplace,
 
 In a serious consideration of thy late severe and
@@ -940,10 +1017,13 @@ for no man can have so much need of mercy from thee as thou hast of mercy from G
 
 In true love is this written, by him who desires thy welfare both in soul and body,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Reading Jail, the 13th of Twelfth month, 1684.
 
+[.postscript]
 P+++.+++ S. I desire thee to return that book which I sent thee in love to peruse,
 for thy information concerning oaths and swearing;
 which I did hope might have satisfied and have convinced thee,
@@ -953,7 +1033,10 @@ that it was a seditious book, I desire thee to manifest in writing,
 thy ground and reason as proof for thy so saying,
 and send it with the said book unto my wife in Farringdon.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 The foregoing letter not working the desired effect upon him,
 but I still hearing by several hands, of the continued cruelty, violence and spoil,
@@ -961,8 +1044,13 @@ that was made upon our Friends, by and through the occasion of this Thomas Fetti
 I was moved to write a second letter to him,
 to lay the weight of Friends sufferings upon him.
 
+[.offset]
 And after this manner I wrote to him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Thomas Fettiplace,
 
 Forasmuch as I had lately a sight of an account of thy actions
@@ -1072,11 +1160,14 @@ and render thee a just reward according to thy works;
 and in his fear is this written for thy everlasting good,
 By him who hath learned to love and pray for enemies and persecutors, called
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Written in Reading Jail, where I suffer for believing and obeying him,
-who said '`swear not at all, 6th of Second month, 1685.
+who said "`swear not at all,`" 6th of Second month, 1685.
 
+[.postscript]
 P+++.+++ S.--Truly as the state of things now stands, thy doings seem very strange.
 What if he that now sits at the helm,
 should permit or encourage thee and others of thy mind, on purpose to try you,
@@ -1123,15 +1214,26 @@ and then I think to speak with thee about my book which I lent thee,
 and thou hast neglected to return.
 I am,
 
+[.signed-section-closing]
 A lover of truth and just government, O. S.`"
 
+--
+
+[.offset]
 Underneath I wrote these Scriptures.
 
+[.embedded-content-document.letter]
+--
+
+[.offset]
 "`He that ruleth over men must be just, ruling in the fear of God.`" 2 Samuel 23:3.
 
+[.offset]
 "`Whatsoever ye would that men should do unto you, do ye even so to them;
-for this is the law and the prophets.`"
-Matt. 7:12;
+for this is the law and the prophets.`" Matt. 7:12;
 
+[.offset]
 Saith the only judge and lawgiver who is to be heard in all things;
 and He and His sayings ought to have the preeminence above all men and their laws.
+
+--

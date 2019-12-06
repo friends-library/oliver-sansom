@@ -1,9 +1,13 @@
 == Chapter IX.
 
-After lying in prison three years,
-is with other Friends liberated by the King`'s proclamation--The end of some of his
-persecutors--Visits some meetings--Travels in the ministry in Ireland--His epistle to
-Friends of Reading meeting--Continued labours in Ireland--His return home.
+[.chapter-synopsis]
+* After lying in prison three years, is with other Friends liberated by the King`'s proclamation
+* The end of some of his persecutors
+* Visits some meetings
+* Travels in the ministry in Ireland
+* His epistle to Friends of Reading meeting
+* Continued labours in Ireland
+* His return home.
 
 I lay in prison till the next general quarter sessions
 which were held at Newbury in the second month,
@@ -19,10 +23,15 @@ and the next day being the fourteenth of the second month,
 we the prisoners drew up a short paper to be presented to the justices;
 of which this is a copy,
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Berks,--To the king`'s justices at the quarter sessions for the said county,
 held at Newbury the 14th day of the month called April, 1686.
 
-These humbly show,
+[.salutation]
+These humbly show:
 
 That whereas the king by his late proclamation bearing
 date the 10th of the month called March last,
@@ -37,7 +46,9 @@ callings as the king`'s subjects fearing God ought to do;
 who desire and pray for the peace and welfare of all men.
 
 From the prisoners called Quakers,
-who are now attending the court to know your pleasure concerning us,
+who are now attending the court to know your pleasure concerning us.
+
+--
 
 This paper was given into the hand of lord Sterling,
 and soon after was read by the clerk in open court; whereupon we were called for,
@@ -475,6 +486,10 @@ And in this vacancy I wrote several letters for England;
 whereof one was directed to Friends of Reading meeting,
 and elsewhere in the county of Berks; and it was thus worded:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 To whom my entire love sincerely reaches in our Lord Jesus Christ, and salutes you all,
@@ -585,15 +600,20 @@ And in that love and life, wherein we may feel one another present in spirit,
 though absent in body, I do dearly salute and greet you all,
 desiring your prayers to the Lord for me, who am your dear brother,
 
+[.signed-section-signature]
 Oliver Sansom.
 
-Written at Mountraellick in Ireland, the 16th of Fourth month, 1687.
+[.signed-section-context-close]
+Written at Mountmellick in Ireland, the 16th of Fourth month, 1687.
 
+[.postscript]
 P+++.+++ S. Mind my love very dearly to Friends at the next quarterly meeting,
 if this comes timely to hand, and let this epistle be made public among Friends,
 as in the wisdom of God, a service is seen.
 Things here in Ireland are quiet, meetings large and full, and Friends are lively,
 and zealously concerned for the interest of Truth.
+
+--
 
 Having dispatched this with other letters for England,
 we left Mountmellick on the 19t`'h day of the fourth month,

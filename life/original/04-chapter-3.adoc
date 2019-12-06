@@ -1,21 +1,32 @@
 == Chapter III.
 
-His losses whilst imprisoned--Address and queries to his neighbours--Letter to the Priest--Death
-of the Priest--His religious experience and firmness in his testimonies--Thoughts of
-removal from Boxford--Letter to the new Priest--Two letters to his wife--Sufferings
-by the priests widow--Letter to her--Continued troubles--Two letters to the Mayor of
-Newbury--Objects to employ an attorney to defend his conscientious scruples.
+[.chapter-synopsis]
+* His losses while imprisoned
+* Address and queries to his neighbours
+* Letter to the Priest
+* Death of the Priest
+* His religious experience and firmness in his testimonies
+* Thoughts of removal from Boxford
+* Letter to the new Priest
+* Two letters to his wife
+* Sufferings by the priests widow
+* Letter to her
+* Continued troubles
+* Two letters to the Mayor of Newbury
+* Objects to employ an attorney to defend his conscientious scruples.
 
 Now in this time of my confinement, the greedy priest took away my goods by force;
 what and how, as he pleased.
 Of which I received the following account from my man that then lived with me,
 whose name was John Wightwick.
 
-An account of the proceedings of Priest Anderton, and his man, Lodowick Yeomans,
-for the tithe of my master Oliver Sansom`'s living, while he was kept a close prisoner,
-in the year 1670.
+[.embedded-content-document.letter]
+--
 
-About the middle of the fourth naonth, we having made our hay,
+[.blurb]
+=== An account of the proceedings of Priest Anderton, and his man, Lodowick Yeomans, or the tithe of my master Oliver Sansom`'s living, while he was kept a close prisoner, in the year 1670.
+
+About the middle of the fourth month, we having made our hay,
 Lodowick Yeomans with James Basford and his man came
 into the mead very early in the morning,
 before we were got thither, and carried away a load of hay;
@@ -77,9 +88,13 @@ So they forcibly took away the horses, cart, and corn,
 and drew it into the priest`'s barn; and when they had taken off what corn they pleased,
 they turned out the horses and cart into the street again.
 
+[.signed-section-closing]
 This is attested to be a true account, by me,
 
+[.signed-section-signature]
 John Wightwick.
+
+--
 
 As thus the priest dealt with me this year, so he continued to do in the next year, 1671.
 For at shearing-time he took from me by violence ten fleeces of wool;
@@ -103,6 +118,10 @@ he reviled her much, and told her,
 if he had been there he would have laid her by the heels.
 Of that letter the copy here followeth, thus directed.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 To my loving neighbours, dwelling at and near Boxford, These.
 
 All you my neighbours who are inhabitants in Boxford and Westbrook and the parts adjacent;
@@ -188,7 +207,7 @@ Or did he intend that they who fear him and love him,
 and refuse to pay tithes or other maintenance in true conscientiousness
 unto him should be forced to it by laws and penalties?
 Is this of Christ?
-or came this from the pojje who with his ministry hath departed from the way of Christ,
+or came this from the pope who with his ministry hath departed from the way of Christ,
 and set up inventions of his own?
 
 Query 9. Is not the gospel a gospel of peace, love and gentleness?
@@ -244,13 +263,18 @@ all holy praises be to Him forevermore;
 and I know that in his due time he will deliver me.
 So in his love I rest and remain A true friend to all your souls,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Written in Heading Jail, the 25th of Fifth Month, 1671.
 
+[.postscript]
 Where I endure imprisonment,
 for bearing witness for the Lord against the false shepherds,
 who feed themselves but not the flock; and by violence tear their wool from off them.
+
+--
 
 This is that paper which so enraged the priest, that he let loose his unruly tongue,
 in reviling language and threats upon my wife for delivering it;
@@ -261,7 +285,7 @@ I was still kept a close prisoner upon the priest`'s suit for tithes,
 and he had often said I should never have my liberty
 but should lie in prison till I rotted.
 And to make the more sure of me,
-this wicked priest had procured a writ (de excommunicato capiendo)
+this wicked priest had procured a writ (_de excommunicato capiendo_)
 to be taken out and served on me while I was in prison;
 that having two strings to his bow, if one of them should slip or break,
 the other might hold me fast still.
@@ -281,8 +305,8 @@ did serve to lay him and it more open and naked afterwards.
 For after I had been confined more than two full years,
 a close prisoner (not having seen my outward habitation
 in all that time) a declaration came forth from the king^
-footnote:[The King`'s patent or pardon is referred to in The Christian Progress,
-etc. of George Whitehead, and a copy of it given at page 351 of vol.
+footnote:[The King`'s patent or pardon is referred to in [.book-title]#The Christian Progress,
+etc. of George Whitehead#, and a copy of it given at page 351 of vol.
 8th of Friends`' Library.
 The original contains the names of 491 Friends,
 most of whom had long laid prison and were now to be liberated;
@@ -311,6 +335,10 @@ that though he had sent me to prison, yet he did not continue me there.
 When I heard that and had well considered of it,
 something came upon my mind to write to the priest after this manner.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 James Anderton,
 
 Thou mayest remember that above two years since thou
@@ -356,11 +384,18 @@ and of all people, the cause of my sufferings will be imputed to thee only;
 and I know that the Lord, in whose hand is thy breath and the breath of all living,
 will require it of thee, when he shall come near to judgment.
 So leaving it to thy consideration and expecting an answer,
-I remain A friend to all that love Truth in uprightness of heart.
+I remain,
 
+[.signed-section-closing]
+A friend to all that love Truth in uprightness of heart.
+
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 4th of the Second month, 1672.
+
+--
 
 This letter was delivered to him by a neighbour,
 unto whom he had endeavoured to excuse himself from
@@ -491,6 +526,10 @@ with a prison for what he pretended was due to his father.
 This brought a weighty concern upon me to write to him, who bore his father`'s name,
 which I did thus:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 James Anderton,
 
 Thy late carriage and deportment hath brought a weighty
@@ -555,8 +594,10 @@ and consider in this thy day the things that belong to thy soul`'s peace
 before they be hid from thy eyes! which is the desire of him,
 who is a well-wisher to thy soul, but a witness against thy deceit.
 
+[.signed-section-signature]
 Oliver Sansom,
 
+[.postscript]
 P+++.+++ S.--And whereas thou has threatened me with a prison
 if I did not pay what thou pretendest was due to thy father;
 this I have to say and testify in the presence of the living God,
@@ -605,9 +646,13 @@ and to the just witness of God I appeal to testify to the truth of it:
 and whether thou wilt hear or not,
 yet that will one day bring to thy remembrance that thou hast been warned.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Written and delivered in the Twelfth month, 1672.`"
+
+--
 
 My purpose of removing from this place to go and dwell at Farringdon
 continued still with a weighty exercise upon me.
@@ -629,11 +674,16 @@ Then went I to my wife`'s father also, and desired his consent for my parting wi
 which he also freely gave; and thus for awhile things went on very easy and well,
 in order to my removal, beyond my expectation.
 
+[.offset]
 +++[+++Oliver Sansom appears to have visited Bristol and
 London during the early part of this year,
 1673; the following letters, dated the I third month,
 were written from those places to his wife.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 My dear and tender love is entirely unto thee in the living unchangeable Truth;
@@ -655,14 +705,21 @@ but if there is haste of my return home, send by the next post.
 So with dear love to Richard Daniels and Betty, and T. V., and to Friends,
 thinking to return shortly, I rest
 
+[.signed-section-closing]
 Thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Bristol, the 3rd of the Third month, 1673.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Wife,
 
 These may let thee know that I am come well to London,
@@ -694,11 +751,16 @@ with thine eye turned inward to that power which is able to do it;
 and in the same love to R. D., E. W., and T. V.,
 and to all my dear Friends both at Newbury and elsewhere.
 
+[.signed-section-closing]
 I remain thy dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 London, the 19th of the Third month, 1673.
+
+--
 
 Now although I then was, and yet am fully satisfied,
 that my purpose of removing was of the Lord; yet with respect to the time for doing it,
@@ -722,14 +784,20 @@ John Anderton met him again and stayed the horse until the
 sergeant came with a warrant from the mayor to attach him.
 Of which the copy here follows.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Burgas de Newbury in Com Berks
 
 Attach Oliver Sansom by his goods and chattels,
 so that he be and appear at the next Court,
 to be holden for the said borough to answer Charity Anderton in a Plea of Trespass.
 
-Geo.
-Cowslade, Mayor.
+[.signed-section-signature]
+Geo. Cowslade, Mayor.
+
+--
 
 My horse being thus arrested I had no freedom to give bail;
 but did choose rather to rest satisfied with the loss of my horse than to contend in law.
@@ -742,6 +810,10 @@ which afterwards became a trouble and a snare both to me and them.
 When I understood this action was entered against me in the name of the priest`'s widow,
 it was weightily upon me to write to her as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Charity Anderton,
 
 Whereas there is an action entered against me in
@@ -810,9 +882,13 @@ all that do oppose or rise up against me for it.
 Wherefore I wish thou wouldest be warned by him who
 desires thy soul`'s present and eternal good.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 28th of the Seventh month, 1673
+
+--
 
 Two days after, the Newbury Court was held, and the new mayor, Richard Pocock,
 first sat as judge there;
@@ -842,16 +918,16 @@ which when he had done,
 J+++.+++ Anderton gave him sixpence and bid him take the paper and throw it into the court.
 
 This paper it seems was the execution,
-which was returned "`Non est inventus`" by John Anderton;
+which was returned _"`Non est inventus`"_ by John Anderton;
 who got the sergeant to set his hand to it as his return,
 not knowing that it was an execution,
-but thought it had been a "`Scire facias;`" as he affirmed the next court-day
+but thought it had been a _"`Scire facias;`"_ as he affirmed the next court-day
 in open court and proffered to take his oath of it.
 
 Upon this false return on the second court-day of this mayor`'s sitting,
-a "`Scire facias`" was granted against my bail.
+a _"`Scire facias`"_ was granted against my bail.
 Whereupon being advised to render my body to be actually
-a prisoner before the "`Scire facias`" was returned,
+a prisoner before the _"`Scire facias`"_ was returned,
 I went to the mayor`'s house on the court-day before he went to the court,
 and proffered to render my body to be his prisoner,
 desiring him to commit me to one of his sergeants then present
@@ -865,7 +941,7 @@ the mayor permitted my adversary to amend it there in the open court;
 and when I there also proffered to render my body into custody
 often desiring that I might be committed to discharge my bail,
 he refused to accept the tender of my body,
-and ordered the "`Scire facias`" to be returned and filed;
+and ordered the _"`Scire facias`"_ to be returned and filed;
 and that being then pleaded to, the trial was ordered to be on the next court-day;
 whereupon my adversary did boast that he would have a judgment against my bail.
 
@@ -876,6 +952,10 @@ though altogether unjustly carried on against me;
 my spirit was stirred within me and in the sense of his unjust dealing by me,
 I wrote to him as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Richard Pocock,
 
 Forasmuch as the Lord hath given thee authority as
@@ -929,11 +1009,16 @@ and take heed lest thou arrive there before thou art aware.
 O that thou wouldest be warned and repent before it is too late,
 is the desire of my soul, who am,
 
+[.signed-section-closing]
 A well-wisher to thee and all men,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 15th of Eighth month, 1673.
+
+--
 
 When the next court-day came, which was the 21st of the eighth month, 1673,
 my adversary was confounded or disappointed in his proceedings;
@@ -1000,8 +1085,13 @@ and after some time when his rage was over, he sent a sergeant to release me.
 This ill usage of me brought a concern upon my mind to write to the mayor about it;
 which I did as followeth, thus directed:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard Pocock, Mayor of Newbury, These.
 
+[.salutation]
 Friend,
 
 I have a few words to communicate to thee concerning thy dealing with me the last court-day:
@@ -1042,9 +1132,13 @@ that thou mayest see and discern in this thy day the things
 which belong to thy soul`'s everlasting peace,
 before they be hid from thy eyes; which is the real desire of
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 The 30th of Eighth month, 1673.
+
+--
 
 The court was adjourned to the second day of the tenth month, 1673,
 at which time I appeared; as also I did three several court-days following, viz. the 9th,

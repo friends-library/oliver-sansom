@@ -1,11 +1,19 @@
 == Chapter IV.
 
-His prosecution at Newbury Court--Letter to the lawyer on the ground of his refusal
-to pay tithes--Injustice of the Mayor--Letter to him--Is committed to Newbury Compter
-Prison--His sickness there--Letter to his wife--Letter to the late priest`'s widow,
-his prosecutrix--Remarkable liberation--Letter to a Presbyterian
-priest who had preached against Friends--This priest`'s charges--Oliver
-Sansom`'s replies--Further correspondence between them.
+[.chapter-synopsis]
+* His prosecution at Newbury Court
+* Letter to the lawyer on the ground of his refusal to pay tithes
+* Injustice of the Mayor
+* Letter to him
+* Is committed to Newbury Compter Prison
+* His sickness there
+* Letter to his wife
+* Letter to the late priest`'s widow, his prosecutrix
+* Remarkable liberation
+* Letter to a Presbyterian priest who had preached against Friends
+* This priest`'s charges
+* Oliver Sansom`'s replies
+* Further correspondence between them.
 
 On the 17th day of the twelfth month, 1673, the court sat again, and I appeared;
 but the mayor not being present, nothing was done further in my business;
@@ -17,7 +25,11 @@ Whereupon I produced a paper which I desired might be entered
 into their book and I would pay for the entry.
 The mayor took it and read it openly in the court; and this is a copy of it.
 
-Memorandum,
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
+Memorandum
 
 That whereas there was an action entered in the name
 of Charity Anderton against Oliver Sansom,
@@ -34,7 +46,7 @@ And then he did proffer to render his body into the Sergeant`'s
 hands to abide a prisoner until he did get other bail;
 but all was denied.
 And then a second declaration being put in, a second appearance was also required;
-and Oliver Sanson was called by name to appear in the court,
+and Oliver Sansom was called by name to appear in the court,
 and he made answer and proffered his personal appearance accordingly;
 and desired that he might appear and make his defence in his own proper person;
 which he claimed as his common right, and tendered sixpence in the court,
@@ -53,6 +65,8 @@ did engage no further than only for that first appearance
 unto the first action and declaration;
 but for the second appearance there was no bail engaged either by consent or intent;
 unless it can be by force.
+
+--
 
 When the mayor had read this paper openly in the court,
 he could not object anything against the truth of it; but asked me,
@@ -87,6 +101,10 @@ and could not have peace until I had written a letter
 to forbid his proceeding any further on my behalf;
 which I did as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 I am pressed in my spirit to write unto you concerning my business,
@@ -152,9 +170,13 @@ then you may come to witness that it will not only show you sin and reprove you 
 but it will also save you from it, and salvation cannot be obtained any other way.
 This is all at present from him, who is your friend,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 The 26th of Twelfth month, 1673.
+
+--
 
 These to the hands of +++_______+++ Brooker, an attorney in Newbury-court,
 dwelling at or near Woolhampton in Berks.
@@ -245,7 +267,7 @@ At that word came in my adversary, John Anderton, and said to me,
 you must now go home on foot, for I have seized your horse.
 And rejoicing in his wickedness he told his companions
 that he had watched where I set my horse,
-and having got a "`Fieri facias`" sealed, he went with the Sergeant and took him,
+and having got a _"`Fieri facias`"_ sealed, he went with the Sergeant and took him,
 and then made return of it in the court.
 
 When I heard this I said, "`Seeing I am a sufferer by this court,
@@ -379,6 +401,10 @@ and to put a stop to and restrain those unjust and unrighteous proceedings,
 which in their court they were carrying on against me.
 And thus I wrote to him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Richard Pocook,
 
 I desire you to consider and call to mind how you have dealt by me all along,
@@ -430,9 +456,13 @@ Therefore, while you have time be faithful to do what the Lord requires of you;
 which is to do justly and love mercy and walk humbly with him.
 And remember you have been warned by him, who wishes your everlasting well-being.
 
+[.signed-section-signature]
 Oliver Sansom,
 
+[.signed-section-context-close]
 The 14th of Second month, 1674.
+
+--
 
 The same day I came with my bail to the court;
 and the bail being called appeared and said,
@@ -444,14 +474,14 @@ The adversary, John Anderton, was not there himself; but his attorney pleaded sa
 Whereupon I said,
 "`I have proffered to render my body almost every court-day for a great while,
 only desiring to have my bail discharged;
-and if the rendering my body before the '`Scire facias`'
+and if the rendering my body before the _"`Scire facias`"_
 was returned be sufficient to discharge the bail,
 then surely this man ought to be discharged.`"
 
 Thereupon two or three of the lawyers, being weary of me and willing to be rid of me,
 stood up to plead for me, and said, they could bear witness that what I said was true;
 for to their knowledge,
-I had often rendered my body for his discharge before the "`Scire facias`" was returned.
+I had often rendered my body for his discharge before the _"`Scire facias`"_ was returned.
 At that my adversary`'s attorney being offended asked them,
 who employed them to plead my cause?
 and many words thereupon passed between them in contending one with another.
@@ -563,9 +593,14 @@ and my sickness turned to the smallpox;
 which was so sore upon me that I was nigh unto death.
 But it pleased my tender God to be my good physician, and to raise me up in his own time.
 
+[.offset]
 +++[+++The following is a copy of a letter he wrote to his wife
 from the Compter-Prison of Newbury at this period.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Dear Wife,
 
 My dear and tender love does truly reach unto you in the uprightness of my heart,
@@ -588,7 +623,7 @@ only this day I received a few lines from your sister,
 which certified me you were very little amended of your distemper on last second-day,
 but how is it with you since I cannot hear.
 But if you are pretty well, I desire you not to venture to come to me,
-until you hear further from me, but let me hear (rom you as often as you can.
+until you hear further from me, but let me hear from you as often as you can.
 My dear love is to your sister,
 and her tender love and care of me is not by me forgotten,
 but remains as a seal upon my heart by that tender
@@ -598,11 +633,16 @@ However, let her see this letter,
 and my love is to Betty and also to all her friends that love the Truth.
 I rest,
 
+[.signed-section-closing]
 Your dear husband,
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Newbury Compter-Prison, 9th of Fifth month, 1674.
+
+--
 
 While I was thus in prison, the woman at whose suit I was imprisoned,
 whose name was Charity Anderton,
@@ -610,6 +650,10 @@ speaking with a Friend who was coming to visit me in the prison,
 desired him to remember her love to me and to my wife;
 whereupon something arose in my mind to write to her; which I did thus.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Charity Anderton,
 
 I understand that A. H. had some discourse lately with you concerning me,
@@ -681,9 +725,13 @@ peace and well-being of your soul forever.
 And I can truly say that I have true love in my heart towards you;
 although you are my open enemy, and I am a sufferer by you.
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 Newbury Compter-Prison, the 23rd of the Fifth month, 1674.
+
+--
 
 Now I was settled in prison upon an execution not to stir so much as without the door;
 and without any prospect of deliverance or ground to expect it.
@@ -701,7 +749,7 @@ even such a confusion as had not been known nor heard
 of in that place since it was a corporation.
 For George Cowslade, who had been mayor the year before,
 and who when he was going out of his office had granted the first warrant against me,
-was taken away by death; and this Richard Ppcock, the next imperious mayor,
+was taken away by death; and this Richard Pocock, the next imperious mayor,
 in the height of his pride and ambition was pulled down from his chair with shame,
 as I had forewarned him he should be.
 For the Lord, in his justice,
@@ -782,6 +830,10 @@ was upon some words which I was told he spoke privately against us,
 to a young man to dissuade him from coming to our meetings.
 And that which I wrote to him was thus.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Benjamin Woodbridge,
 
 I had lately some words with a young man who was a follower of you,
@@ -828,9 +880,13 @@ and for the purity of that way and worship which the Lord has made known unto us
 and has owned and preserved us in, I remain, A lover of truth and plainness,
 but a witness against backbiting and deceit,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 The Second month, 1673.
+
+--
 
 This letter was delivered to him, but he never returned any answer.
 So that although, serpent-like,
@@ -870,6 +926,10 @@ openly upon the stage as it were, either to prove what he had charged us with,
 or else to clear us of it.
 Wherefore I wrote thus unto him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Benjamin Woodbridge,
 
 Forasmuch as it is commonly reported both in town and country hereaway,
@@ -926,15 +986,21 @@ so I desire you in plainness of heart to grant me this request;
 and expecting to hear shortly from you,
 I remain A true lover of all those that love truth in sincerity.
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 26th of the Ninth month, 1673.`"
 
+[.postscript]
 P+++.+++ S.--When you write, direct your letter to be left with Robert Wilson in Newbury for me.
 I wrote to you about half a year ago, but never yet received any answer;
 I desire to know the reason.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 This letter was delivered to him, and seemingly well received by him;
 and some of his hearers who were intimate with him reported he did say,
@@ -945,6 +1011,10 @@ which some said was from the gout in his hands and feet;
 but after about three weeks time he began to handle his pen again,
 and sent me the answer following:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Oliver Sansom,
 
 I received a letter from you about a fortnight since,
@@ -1005,12 +1075,21 @@ This was the substance of what I then spoke more at large;
 which for preventing of uncertain rumours I have sent you written,
 as well as I am at present able, with my own hand and my name subscribed.
 
+[.signed-section-signature]
 Benjamin Woodbridge.
 
+[.signed-section-context-close]
 December the 18th, 1673.
 
+--
+
+[.offset]
 Unto this letter I returned the following reply:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Benjamin Woodbridge,
 
 Your answer to my last letter I received, and I take it kindly from you,
@@ -1298,14 +1377,24 @@ when convinced of it, as it is to contend for and vindicate the truth.
 So upon your serious perusal of this my reply, I shall expect from you a more mild,
 considerate and Christian-like answer; and do still, and hope ever shall remain,
 
+[.signed-section-closing]
 A lover of the truth, as it is in Jesus,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 24th of the Tenth month, 1673.
 
+--
+
+[.offset]
 About a week after I received from liim this following answer:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Oliver Sansom,
 
 Yours of the 24th instant I received.
@@ -1421,12 +1510,16 @@ which unless you were able to write more strictly and closely to the matter,
 without multiplying words to no purpose, I shall not be drawn to;
 and therefore forbear to answer your queries, yet remain,
 
+[.signed-section-closing]
 Willing to do you any good I can,
 
-Benj.
-Woodbridge.
+[.signed-section-signature]
+Benj. Woodbridge.
 
+[.signed-section-context-close]
 December the 31st, 1673.
+
+--
 
 When I had received this letter I was troubled to see so little plainness appear:
 and how subtly he did seek to hide and cover himself, and to waive the matter.
@@ -1435,6 +1528,10 @@ and made inquiry after Solomon Eccles`' his book which he quoted;
 but could not hear of such a one.
 But after some time I wrote a pretty sharp reply to his last letter as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Benjamin Woodbridge,
 
 I have perused your answer to my reply,
@@ -1571,12 +1668,16 @@ from being accounted a slanderer in that also.
 So expecting a plain answer without evasion to the several heads before mentioned,
 I remain.
 
+[.signed-section-closing]
 An earnest contender for the true faith against infidelity,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 The 19th of Eleventh month, 1673.
 
+[.postscript]
 P+++.+++ S. Whereas in the conclusion of your letter you
 query what I would have you to prove by the Scriptures;
 I answer, you have, as you know,
@@ -1612,7 +1713,10 @@ nor the antiquity of our tenets;
 any more than the term Christian formerly did the Christian principles and doctrines,
 when it was first cast by the scoffing heathen on the followers of Christ.
 
+[.signed-section-signature]
 O+++.+++ S.
+
+--
 
 After Benjamin Woodbridge had received this letter,
 which I sent him by an eminent hearer of his,
@@ -1632,9 +1736,13 @@ But when after about two months waiting,
 I could not find him any way willing to appear in public,
 I wrote another letter to him as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Benjamin Woodbridge,
 
-I have long wailed to receive an answer from you to my last letter,
+I have long waited to receive an answer from you to my last letter,
 dated the 19th of the eleventh month, 1673.
 And to stir you up to return a plain answer,
 I have sent you several verbal messages by your friend N. C.
@@ -1673,11 +1781,16 @@ and give forth a public acknowledgment to clear us and your own conscience;
 and thereby make some sort of satisfaction for the wrong and injury you have done us.
 So in the love of God I remain,
 
+[.signed-section-closing]
 A well-wisher to you and all men,
 
+[.signed-section-signature]
 O+++.+++ Sansom.
 
+[.signed-section-context-close]
 The 22nd of First month, 1674.
+
+--
 
 But neither did this letter draw him forth to give us a public meeting.
 Wherefore, after I had thus cleared my hands of him,

@@ -1,10 +1,16 @@
 == Chapter X.
 
-Religious liberty extended--The poll-tax;
-Oliver Sansom`'s goods seized for not paying the tax as a priest--Removes to Abingdon--Goods
-twice seized for the poll-tax--Goods distrained for "`Easter offerings`"--Again for
-tithes--His address to the mayor and justice--Another to
-the priest--Further persecution--Conclusion.
+[.chapter-synopsis]
+* Religious liberty extended
+* The poll-tax; Oliver Sansom`'s goods seized for not paying the tax as a priest
+* Removes to Abingdon
+* Goods twice seized for the poll-tax
+* Goods distrained for "`Easter offerings`"
+* Again for tithes
+* His address to the mayor and justice
+* Another to the priest
+* Further persecution
+* Conclusion.
 
 After my return home,
 I laboured in the strength of the grace which the Lord had given me,
@@ -362,8 +368,13 @@ Soon after they had taken my goods away,
 in the consideration of their unjust and illegal proceedings,
 I wrote a letter to the mayor and the justice thus directed.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Mayor of Abingdon, and John Selwood, justice for the same borough, these:
 
+[.salutation]
 Friends and Neighbours,
 
 If the oppressed may have leave to complain,
@@ -432,7 +443,7 @@ for the law does not empower one to act alone in it.
 
 And whereas your officers having given me leave to take a copy of your warrant,
 just as I had wrote it, one of them tore it away and would not let me have it,
-that the shame of your doings might not appear: I do claim it asmy common right,
+that the shame of your doings might not appear: I do claim it as my common right,
 being a subject, to have copies, I being at the cost,
 of all proceedings against me that are under colour of law,
 both of the priest`'s complaint and of your summons, and warrant for distress:
@@ -446,7 +457,7 @@ that if they did not execute your warrant within three hours,
 he would put them every man into the crown-office.
 Does not such language clearly discover that he is not in the meek spirit of Christ,
 or practice of his ministers; but in the persecuting spirit of antichrist,
-and in the steps of popish hirehngs; and that he serves not the Lord Jesus Christ,
+and in the steps of popish hirelings; and that he serves not the Lord Jesus Christ,
 but his own belly, and his reward will be according to his works.
 
 You are my neighbours, and because I love you, I am thus plain with you,
@@ -455,16 +466,25 @@ So committing my case to the righteous judge of heaven and earth,
 to whom you as well as I must give an account,
 and receive a reward according to our deeds, I remain,
 
+[.signed-section-closing]
 Your well-wishing friend,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Abingdon, the 3rd of Sixth month, 1702.
+
+--
 
 The priest was highly displeased with me for the foregoing letter;
 and meeting me in the street, he threatened to sue me at law for it.
 Whereupon, after sometime, it came upon me to write to the priest thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Anthony Addesson,
 
 I have had for sometime a concern upon my mind to write to you,
@@ -526,9 +546,13 @@ desiring you may seek, and find a place of repentance before it be too late.
 And if ever you do obtain repentance unto life you will know that I am your friend,
 that desires your soul`'s eternal welfare,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.signed-section-context-close]
 Abingdon, the 29th of Ninth month, 1702.
+
+--
 
 It was about two years after this before I heard of this priest again.
 And then in the tenth month, 1704,
@@ -635,6 +659,10 @@ who had as to outward appearance carried himself smooth and loving towards me,
 but because he did so unjustly, in signing this illegal warrant,
 I could not be clear but to write a letter to him; a copy whereof here follows.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Neighbour Ely,
 
 Yesterday some of the parish officers came to my house with a warrant,
@@ -696,19 +724,26 @@ which may bring a blemish upon your name,
 and be of an ill savour when your body is in the dust; so in that love of God,
 which can forgive injuries, and do good for evil, I take my leave and remain,
 
+[.signed-section-closing]
 Your well-wishing friend,
 
+[.signed-section-signature]
 Oliver Sansom.
 
+[.postscript]
 P+++.+++ S. If you please, you may let John Selwood see this letter,
 he has dealt unjustly by me in the like case formerly.
 But I did clear my conscience to him in writing then; and to John Spinnage also,
 the then mayor; but I did hope for better dealing from you,
 though I have missed of my expectation.
 
+[.signed-section-signature]
 O+++.+++ S.
 
+[.signed-section-context-close]
 Abingdon, 30th of Eighth month, 1708.
+
+--
 
 Some time after, the said Richard Ely meeting me in the street, said to me,
 he had received a letter from me, and was sorry for what was done,
@@ -739,7 +774,8 @@ I then said, as I never employed them to sell any goods of mine,
 so I should not concern myself with their account; and when they saw I would not take it,
 they left ten-pence on the table and went away.
 
-* * *
+[.asterism]
+'''
 
 +++[+++This concludes the narrative of this faithful minister of the gospel,
 and patient sufferer for the Truth,
@@ -750,6 +786,9 @@ months of the time when that event occurred.
 That which follows is from the pen of John Field,
 the compiler of three volumes of that valuable work,
 "`Piety Promoted,`" and author of several short pieces.]
+
+[.embedded-content-document.testimony]
+--
 
 Notwithstanding the aforegoing account of the Labours, Travels and Sufferings,
 as also the Testimonies concerning that ancient and innocent servant of Christ,
@@ -807,15 +846,19 @@ for I have been true to what the Lord committed to my charge.
 He departed this life the 23rd of the second month, 1710,
 and was buried at Abingdon on the 26th.
 
-JOHN FIELD.
+[.signed-section-signature]
+John Field.
 
+[.signed-section-context-close]
 London, 15th of Fifth month, 1710.
 
-* * *
+--
 
-A TESTIMONY From the monthly meeting at Charlnw in the Vale, in Berkshire,
-the 12th of the Third month, 1710, concerning our ancient and beloved brother,
-and servant of Christ, Oliver Sansom.
+[.asterism]
+'''
+
+[.blurb]
+=== A TESTIMONY From the monthly meeting at Charlnw in the Vale, in Berkshire, the 12th of the Third month, 1710, concerning our ancient and beloved brother, and servant of Christ, Oliver Sansom.
 
 It lives in our hearts to give forth the following Testimony,
 from an experimental knowledge of him and his faithful labours of love,
@@ -879,9 +922,9 @@ concerning our dear and well-beloved friend and brother, Oliver Sansom;
 and because it is very well and particularly set forth,
 we need here say no more for brevity sake concerning him.
 
-From our monthly meeting at Reading, in the county of Berks, the 1st of the sixth month,
-1710.
+From our monthly meeting at Reading, in the county of Berks, the 1st of the sixth month, 1710.
 
+[.signed-section-signature]
 John Buy, Sen.
 William Laniboll, Sen.
 Daniel Bullock, John Thorn.
@@ -891,13 +934,15 @@ William Lawrence.
 Richard Hoskin.
 Joshua Chesterman.
 
+[.postscript]
 N+++.+++ B.--William Cooper, Mary Cooper, Sarah Withers, and Elizabeth Vokins, Daniel Flaxney,
 and Oliver Sansom, junior,
 having given distinct testimonies concerning the said Oliver Sansom,
 the substance whereof being included in the foregoing,
 the said particular testimonies therefore are not thought needful to be printed.
 
-The Testimony of Oxford Friends Concerning Oliver Sansom.
+[.blurb]
+=== The Testimony of Oxford Friends Concerning Oliver Sansom.
 
 In the remembrance of our dear friend deceased, whose memory remains sweet to us,
 we have this to say of him, our meeting being often visited by him.
@@ -922,9 +967,11 @@ that it may be so, is, and shall be our desires to the Lord.
 
 Signed on behalf of the meeting at Oxford, the 21st of the third month, 1710.
 
+[.signed-section-signature]
 Thomas Nickolls, Jun.
 
-Thomas Ellwood`'s Testimony Concerning Oliver Sansom.
+[.blurb]
+=== Thomas Ellwood`'s Testimony Concerning Oliver Sansom.
 
 That the righteous shall be had in everlasting remembrance,
 we are assured by the royal Psalmist; and that the memory of the just is blessed,
@@ -977,9 +1024,11 @@ and support and bless them in their labours therein till their work be finished,
 as he did him;
 of whom in a word it may be truly said--he lived and died a servant of the Lord.
 
+[.signed-section-signature]
 Thomas Ellwood.
 
-The Testimony of Jane Sansom, concerning her dearly beloved husband, Oliver Sansom.
+[.blurb]
+=== The Testimony of Jane Sansom, concerning her dearly beloved husband, Oliver Sansom.
 
 This testimony I have to give forth concerning my dear husband,
 whom the Lord in his great mercy was pleased to give me,
@@ -1007,4 +1056,5 @@ who raises up instruments for his own work and takes them away in his own time;
 this I can say to the praise of the Lord, that my dear husband was preserved to the last,
 in all his illness, in the heavenly patience.
 
+[.signed-section-signature]
 Jane Sansom.
