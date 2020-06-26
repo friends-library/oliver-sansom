@@ -1215,7 +1215,10 @@ and thou hast neglected to return.
 I am,
 
 [.signed-section-closing]
-A lover of truth and just government, O. S.`"
+A lover of truth and just government
+
+[.signed-section-signature]
+O. S.
 
 --
 
