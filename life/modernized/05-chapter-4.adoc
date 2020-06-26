@@ -993,9 +993,13 @@ Oliver Sansom.
 The 26th of the Ninth month, 1673.`"
 
 [.postscript]
+====
+
 P+++.+++ S.--When you write, direct your letter to be left with Robert Wilson in Newbury for me.
 I wrote to you about half a year ago, but never yet received any answer;
 I desire to know the reason.
+
+====
 
 [.signed-section-signature]
 O+++.+++ S.
@@ -1678,6 +1682,8 @@ Oliver Sansom.
 The 19th of Eleventh month, 1673.
 
 [.postscript]
+====
+
 P+++.+++ S. Whereas in the conclusion of your letter you
 query what I would have you to prove by the Scriptures;
 I answer, you have, as you know,
@@ -1712,6 +1718,8 @@ yet that reproach does not make void the truth of our principles,
 nor the antiquity of our tenets;
 any more than the term Christian formerly did the Christian principles and doctrines,
 when it was first cast by the scoffing heathen on the followers of Christ.
+
+====
 
 [.signed-section-signature]
 O+++.+++ S.
