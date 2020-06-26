@@ -731,11 +731,15 @@ Your well-wishing friend,
 Oliver Sansom.
 
 [.postscript]
+====
+
 P+++.+++ S. If you please, you may let John Selwood see this letter,
 he has dealt unjustly by me in the like case formerly.
 But I did clear my conscience to him in writing then; and to John Spinnage also,
 the then mayor; but I did hope for better dealing from you,
 though I have missed of my expectation.
+
+====
 
 [.signed-section-signature]
 O+++.+++ S.
@@ -935,11 +939,15 @@ Richard Hoskin.
 Joshua Chesterman.
 
 [.postscript]
+====
+
 N+++.+++ B.--William Cooper, Mary Cooper, Sarah Withers, and Elizabeth Vokins, Daniel Flaxney,
 and Oliver Sansom, junior,
 having given distinct testimonies concerning the said Oliver Sansom,
 the substance whereof being included in the foregoing,
 the said particular testimonies therefore are not thought needful to be printed.
+
+====
 
 [.blurb]
 === The Testimony of Oxford Friends Concerning Oliver Sansom.

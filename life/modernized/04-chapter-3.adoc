@@ -270,9 +270,13 @@ Oliver Sansom.
 Written in Heading Jail, the 25th of Fifth Month, 1671.
 
 [.postscript]
+====
+
 Where I endure imprisonment,
 for bearing witness for the Lord against the false shepherds,
 who feed themselves but not the flock; and by violence tear their wool from off them.
+
+====
 
 --
 
@@ -599,6 +603,8 @@ who is a well-wisher to your soul, but a witness against your deceit.
 Oliver Sansom,
 
 [.postscript]
+====
+
 P+++.+++ S.--And whereas you have threatened me with a prison
 if I did not pay what you pretend was due to your father;
 this I have to say and testify in the presence of the living God,
@@ -646,6 +652,8 @@ So in the coolness of your spirit I desire you to consider of what I have here w
 and to the just witness of God I appeal to testify to the truth of it:
 and whether you will hear or not,
 yet that will one day bring to your remembrance that you have been warned.
+
+====
 
 [.signed-section-signature]
 O+++.+++ S.

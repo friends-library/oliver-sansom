@@ -227,7 +227,11 @@ This, in the love of God, is written, and sent as a warning to you all, by,
 Oliver Sansom.
 
 [.postscript]
+====
+
 I desire it may be read openly in the Court.
+
+====
 
 --
 
@@ -344,6 +348,8 @@ Oliver Sansom.
 The 1st of the Ninth month, 1680.
 
 [.postscript]
+====
+
 P+++.+++ S. If thou please to admit me to serve in the said office upon the terms aforesaid,
 I doubt not but by practice to make it appear,
 that a man may be no less loyal to the king nor less useful and serviceable to his country,
@@ -351,6 +357,8 @@ for refusing to swear.
 For to all those who know Christ the Truth, in their inward parts,
 and are led by him into all truth, both in words and actions,
 the occasion of oaths is taken away.
+
+====
 
 [.signed-section-signature]
 O+++.+++ S.
