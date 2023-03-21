@@ -75,7 +75,7 @@ why I would have it entered into the book?
 I answered, "`Seeing this paper contains a short account of the proceedings against me,
 and also the time when I rendered my body to discharge my bail;
 therefore I judge it may stand me in stead,
-and be of service to discharge my ball in time to come if need require.`"
+and be of service to discharge my bail in time to come if need require.`"
 The mayor then said "`You may have it entered, but what will you give?`"
 "`I will give a shilling,`" said I "`to the clerk, for entering it into the book,
 and for him to set his name as witness to it.`"
@@ -1393,7 +1393,7 @@ The 24th of the Tenth month, 1673.
 --
 
 [.offset]
-About a week after I received from liim this following answer:
+About a week after I received from him this following answer:
 
 [.embedded-content-document.letter]
 --

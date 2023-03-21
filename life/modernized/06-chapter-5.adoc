@@ -51,8 +51,8 @@ they were ready to hear us.
 It so happened that John Swinton,^
 footnote:[John Swinton of Scotland, formerly called Lord Swintowne,
 frequently mentioned in that interesting and valuable work by the late John Barclay,
-The Diary of Alexander Jaffray, etc. with Memoirs of the Rise, Progress,
-and Persecutions of the people called Quakers in the North of Scotland.
+[.book-title]#The Diary of Alexander Jaffray, etc. with Memoirs of the Rise, Progress,
+and Persecutions of the people called Quakers in the North of Scotland.#
 At page 217 of that work a biographical notice is given of John Swinton,
 to which the reader is referred.]
 of Scotland, being in the town at that time upon business depending on the court,
@@ -369,18 +369,18 @@ He was a native of Lancashire, and the only son of his father,
 a yeoman of good repute.
 {footnote-paragraph-split}
 In his youth he obtained a post in the parliamentary army,
-which on his embracing`' the Truth he quitted and testified publicly against it;
+which on his embracing the Truth he quitted and testified publicly against it;
 and became a valiant soldier under the banner of the Prince of Peace.
 After passing through many inward probations,
 he became qualified to direct others in their way to the kingdom of heaven,
 and was one of the first of our Society who travelled in the work of the ministry.
-See G. Fox`'s Journal, where he is frequently mentioned, Leeds edition, vol.
+See G. Fox`'s [.book-title]#Journal,# where he is frequently mentioned, Leeds edition, vol.
 1, p. 193.--Richard Hubberthorne was a man of much meekness, humility, patience,
 and brotherly kindness, clear in judgment, and quick of understanding;
 and although he was of low stature and had an infirm constitution and weak voice,
 he was a powerful and successful minister, and great numbers were convinced by him,
 and brought over to the faith and practice which he preached.
-Me travelled in the exercise of his gift for the space of nine years,
+He travelled in the exercise of his gift for the space of nine years,
 and shared at different times in the sufferings to which our early Friends were exposed.
 {footnote-paragraph-split}
 In the fourth month, 1662,
@@ -396,8 +396,7 @@ through the instigation of a wicked envious priest,
 who advised them to beware of the Quakers, and not to allow them within their borders;
 telling them it would be too late to seek a remedy when the mayor`'s throat was cut,
 and all his officers slain.
-But between that time and this.
-Friends were better known and their principles better understood.
+But between that time and this Friends were better known and their principles better understood.
 
 Among the many people that were at this meeting,
 there was one of the chief men of the town; and he was so very courteous and kind to us,
@@ -414,8 +413,8 @@ which caused my companion to be sea-sick; but I was as well as at other times.
 
 We arrived at Dublin on the 30th of the fifth month, 1676.
 And when we were come into that city a hard travail of exercise came upon us,
-by reason of the power of darkness`' which had wrought
-strongly and mysteriously I in the hearts of some,
+by reason of the power of darkness which had wrought
+strongly and mysteriously in the hearts of some,
 who had once known a better state while they were little and low.
 But when the Lord had given them rest and increased them in outward things,
 the love of this world entering their hearts, became as a root of bitterness in them,
@@ -560,8 +559,8 @@ He will watch over them to do them good, and to keep and preserve them in perfec
 when the mind is stayed upon him.
 So labour against all worldly thoughts, and shut out all worldly desires,
 and wait for heavenly desires and a stayed heavenly spirit,
-that so your affection may be wholly set on things that are eternal Then
-all that we can suffer here will seem light and easy unto us,
+that so your affection may be wholly set on things that are eternal.
+Then all that we can suffer here will seem light and easy unto us,
 and not worthy to be compared to that glory which our heavenly Father is revealing in us.
 Therefore let us forever dwell low and look not out,
 but keep the eye within and live by faith, and we shall surely obtain victory,
@@ -901,7 +900,7 @@ and then told him, that the bishop of Limerick and several justices had been in 
 and hearing of the meeting, had sent to him to break it up, and secure the speaker.
 "`Now,`" said he, "`I being a minister of the law could do no less than I did.
 But however,`" added he,
-i`'f you will promise and engage that he shall not come here again, I will let him go.`"
+if you will promise and engage that he shall not come here again, I will let him go.`"
 
 "`I cannot promise any such thing`" said the Friend;
 "`for it may be the Lord may require him to come again.
@@ -948,7 +947,7 @@ the substance whereof is that the heavenly kingdom and government of Christ is a
 and behold, it is to be sought and waited for within,
 then must I shake off the dust of my feet as a testimony against you.
 Yet notwithstanding, be assured of this, whether you will hear or forbear,
-that the kingdom of heaven is at hand, and very nigh unit you.`"
+that the kingdom of heaven is at hand, and very nigh unto you.`"
 
 Hereupon the Sovereign said, "`I have not faith to believe,
 and many do run before they are sent.`"
@@ -1104,7 +1103,7 @@ On the second-day we went to the half-year`'s general meeting at Dublin,
 which began on the fourth-day of the week, being the 8th day of the ninth month,
 at the ninth hour in the morning;
 and the meeting for worship continued until after the first hour.
-About an hour after.
+About an hour after
 Friends met again in order to consider of the affairs of the church;
 but the power of the Lord broke forth so mightily among Friends in many testimonies,
 prayers and praising the Lord, that there was no time to enter upon business that day,

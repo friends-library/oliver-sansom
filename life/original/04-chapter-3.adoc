@@ -42,7 +42,7 @@ But for all that they carried away the hay.
 And on the 28th day of the fifth month, we having reaped two acres of wheat,
 and set it up in shocks, Lodowick came and threw it all down;
 and with the priest`'s other man began to set up a shock across the land,
-in the manner as they usually set their lithe-shocks.
+in the manner as they usually set their tithe-shocks.
 Whereupon I came to them and asked them if they would
 set up the corn again which they had thrown down?
 Lodowick said, "`No: you may set it up yourself if you will.`"
@@ -133,7 +133,7 @@ For Christ Jesus said, "`By their fruits ye shall know them.`"
 It is not unknown to most of you,
 how he hath dealt with me for these six or seven years`' space,
 which is too long here to be expressed; how furiously, enviously,
-and wickedly he hath proceeded against me, and all tor filthy lucre sake,
+and wickedly he hath proceeded against me, and all for filthy lucre sake,
 because for conscience sake I could not pay him wages;
 but in obedience to the Lord was constrained often to testify,
 that his work and ministry was not of God, but by the traditions and inventions of men,
@@ -261,7 +261,10 @@ that it is for the Lord;
 to whom I have committed my cause and who hath hitherto preserved me,
 all holy praises be to Him forevermore;
 and I know that in his due time he will deliver me.
-So in his love I rest and remain A true friend to all your souls,
+So in his love I rest and remain
+
+[.signed-section-closing]
+A true friend to all your souls,
 
 [.signed-section-signature]
 Oliver Sansom.
@@ -658,7 +661,7 @@ yet that will one day bring to thy remembrance that thou hast been warned.
 O+++.+++ S.
 
 [.signed-section-context-close]
-Written and delivered in the Twelfth month, 1672.`"
+Written and delivered in the Twelfth month, 1672.
 
 --
 
@@ -685,7 +688,7 @@ in order to my removal, beyond my expectation.
 [.offset]
 +++[+++Oliver Sansom appears to have visited Bristol and
 London during the early part of this year,
-1673; the following letters, dated the I third month,
+1673; the following letters, dated the third month,
 were written from those places to his wife.]
 
 [.embedded-content-document.letter]
@@ -697,7 +700,7 @@ My dear Wife,
 My dear and tender love is entirely unto thee in the living unchangeable Truth;
 earnestly desiring, and the breathing of my soul is,
 that we may be preserved in the same, without wavering, unto the end,
-that we I may faithfully fulfill our generation,
+that we may faithfully fulfill our generation,
 according to the will of the Lord our God who is blessed forever.
 Dear heart, this may let thee know that I am well, and my dear companion,
 whose love is dearly to thee and to Friends; we have had many precious meetings;
@@ -877,8 +880,8 @@ which by thy husband was acted against me,
 yet the blessing of the Lord my God hath been so largely upon me,
 that he hath not suffered my outward estate to be impaired, but hath rather increased it.
 And this I further say,
-that as the Lord through bis tender mercy hath hitherto preserved
-me and given me victory overall that hath opposed me,
+that as the Lord through his tender mercy hath hitherto preserved
+me and given me victory over all that hath opposed me,
 so my hope and confidence is,
 that the same God will continue his kindness and mercy to me, so that,
 if ever I remove from Boxford,
@@ -926,10 +929,16 @@ which when he had done,
 J+++.+++ Anderton gave him sixpence and bid him take the paper and throw it into the court.
 
 This paper it seems was the execution,
-which was returned _"`Non est inventus`"_ by John Anderton;
+which was returned __"`Non est inventus`"__^
+footnote:[Latin: __he or she has not been found__--the return of a sheriff
+on a writ or process when the defendant or person to be served or
+arrested is not found in the jurisdiction.]
 who got the sergeant to set his hand to it as his return,
 not knowing that it was an execution,
-but thought it had been a _"`Scire facias;`"_ as he affirmed the next court-day
+but thought it had been a __"`Scire facias;`"__^
+footnote:[a judicial writ requiring a person to appear in court and
+argue why a judgment against them should not be enforced.]
+as he affirmed the next court-day
 in open court and proffered to take his oath of it.
 
 Upon this false return on the second court-day of this mayor`'s sitting,
@@ -1106,7 +1115,7 @@ I have a few words to communicate to thee concerning thy dealing with me the las
 therefore I desire thee in the coolness of thy spirit,
 to consider what cause or occasion was given on my part,
 that should move thee to do by me as thou didst.
-Thou mayest remember v.`'hat my words were, which thou tookest offence at,
+Thou mayest remember what my words were, which thou tookest offence at,
 and the occasion of them; which was thus.
 As I was pleading for the discharge of my bail,
 and urged that what I desired was according to law and justice, thou toldest me,
