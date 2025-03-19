@@ -611,7 +611,7 @@ Oliver Sansom,
 P+++.+++ S.--And whereas you have threatened me with a prison
 if I did not pay what you pretend was due to your father;
 this I have to say and testify in the presence of the living God,
-that for conscience sake towards the Lord could not
+that for conscience sake towards the Lord I could not
 give your father anything nor pay him any wages,
 because he was a deceitful worker and a false minister;
 and the Lord God of my life required me to bear witness against him in his day.
@@ -623,7 +623,7 @@ which through his means was unjustly inflicted upon me;
 than to be so impudent as to demand anything now of me.
 Yet in all my sufferings the Lord my God did uphold me,
 and stood by me in my testimony against your father;
-and preserved me so that I knew no want; blessed be his holy; name forever.
+and preserved me so that I knew no want; blessed be his holy name forever.
 And when your father after many faithful warnings refused to hear,
 and hardening his heart went frowardly on in his evil way,
 in provoking the Lord until his measure of iniquity was filled up;
@@ -647,7 +647,7 @@ for in all ages the servants of the Lord suffered
 under the pretence of the breach of a law,
 by their persecutors.
 And know this, that it is by the Spirit of the Lord that I am raised up,
-to stand a witness for him against your ways I and practices;
+to stand a witness for him against your ways and practices;
 and unto Him I commit my I cause,
 who alone is able to preserve me and keep me in well-doing, unto the end of my days.
 
@@ -1159,7 +1159,7 @@ The 30th of Eighth month, 1673.
 
 The court was adjourned to the second day of the tenth month, 1673,
 at which time I appeared; as also I did three several court-days following, namely,
-the 9th, 16th, and the 33rd days of the same month; but my adversary, John Anderton,
+the 9th, 16th, and the 23rd days of the same month; but my adversary, John Anderton,
 put in no declaration against me in all that time, only continued the suit.
 But on the 13th of the eleventh month, when the court met again,
 there was a declaration put in against me.
@@ -1227,7 +1227,7 @@ And therefore I do deny the proceedings here,
 and do appeal to such other courts as are by the king`'s
 laws appointed to hear and determine such matters.`"
 
-When I had thus spoken.
+When I had thus spoken,
 Justice Kingsmell said jestingly, "`What court would you appeal to?
 Will you go to the court of heaven?
 and if so, you may be sure the lawyers will not come there.`"
